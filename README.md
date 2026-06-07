@@ -1,6 +1,10 @@
 # colai-site
-Site público do aplicativo Colaí, com política de privacidade, termos de uso e informações de suporte para publicação nas lojas de aplicativos.
 
-Confira nossa Política de Privacidade aqui:
+Site publico do aplicativo Colai, com politica de privacidade, termos de uso e informacoes de suporte para publicacao nas lojas de aplicativos.
 
-https://enickr.github.io/colai-site/privacy-policy.html
+## Links publicos
+
+- Politica de Privacidade (PT-BR): https://enickr.github.io/colai-site/privacy-policy.html
+- Privacy Policy (EN): https://enickr.github.io/colai-site/privacy-policy-en.html
+- Termos de Uso (PT-BR): https://enickr.github.io/colai-site/terms-of-use.html
+- Terms of Use (EN): https://enickr.github.io/colai-site/terms-of-use-en.html
