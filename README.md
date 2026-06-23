@@ -1,6 +1,6 @@
 # colai-site
 
-Site publico do aplicativo Colai, com politica de privacidade, termos de uso e informacoes de suporte para publicacao nas lojas de aplicativos.
+Site publico do aplicativo Colai App, com politica de privacidade, termos de uso e informacoes de suporte para publicacao nas lojas de aplicativos.
 
 ## Links publicos
 
